@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 549.11 358.18">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: SourceSerifVariable-Roman, 'Source Serif Variable';
+        font-size: 36px;
+        font-variation-settings: 'wght' 389;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #474748;
+      }
+
+      .cls-3 {
+        fill: url(#Outer_Space-3);
+      }
+
+      .cls-3, .cls-2, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: url(#Outer_Space);
+      }
+
+      .cls-5 {
+        fill: url(#Outer_Space-2);
+      }
+    </style>
+    <linearGradient id="Outer_Space" data-name="Outer Space" x1="363.37" y1="21.69" x2="447.19" y2="21.69" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#474748"/>
+      <stop offset=".25" stop-color="#424243"/>
+      <stop offset=".51" stop-color="#363637"/>
+      <stop offset=".78" stop-color="#222"/>
+      <stop offset="1" stop-color="#0b0b0b"/>
+    </linearGradient>
+    <linearGradient id="Outer_Space-2" data-name="Outer Space" x1="363.37" y1="130.19" x2="485.44" y2="130.19" xlink:href="#Outer_Space"/>
+    <linearGradient id="Outer_Space-3" data-name="Outer Space" x1="363.37" y1="243.75" x2="525.59" y2="243.75" xlink:href="#Outer_Space"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <polygon class="cls-2" points="23.52 24.64 23.52 269.19 107.96 269.19 107.96 165.08 23.52 24.64"/>
+      <polygon class="cls-2" points="23.99 0 183.69 269.25 248.41 157.83 248.41 22.19 191.63 119.68 119.35 0 23.99 0"/>
+      <rect class="cls-2" x="261.54" y="0" width="89.72" height="269.24"/>
+      <polygon class="cls-4" points="363.37 0 363.37 43.08 447.19 43.38 432.07 0 363.37 0"/>
+      <polygon class="cls-5" points="363.37 107.16 363.37 153.23 485.44 153.23 469.3 107.16 363.37 107.16"/>
+      <polygon class="cls-3" points="363.37 218.12 363.37 269.25 525.59 269.38 507.96 218.12 363.37 218.12"/>
+    </g>
+    <text class="cls-1" transform="translate(0 346.12)"><tspan x="0" y="0" xml:space="preserve">M A S A R A T   E V E N T S</tspan></text>
+  </g>
+</svg>
